@@ -24,14 +24,14 @@ class RollDice extends React.Component {
     this.setState({ isRolling: true });
     setTimeout(() => {
       this.setState({ isRolling: false });
-    }, 1200);
+    }, 1000);
   };
 
   render() {
     return (
       <div className="RollDice">
         <h1>Dice App!</h1>
-        <small>Coivd Safe 🦠</small>
+        <small>Covid Safe 🦠</small>
         <div className="RollDice-container">
           <Die dieNum={this.state.die1} isRolling={this.state.isRolling} />
           <Die dieNum={this.state.die2} isRolling={this.state.isRolling} />
