@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AlexMNet/dice-react-project/static/css/main.c32d96a8.chunk.css",
+    "main.js": "/AlexMNet/dice-react-project/static/js/main.e4180c46.chunk.js",
+    "main.js.map": "/AlexMNet/dice-react-project/static/js/main.e4180c46.chunk.js.map",
+    "runtime-main.js": "/AlexMNet/dice-react-project/static/js/runtime-main.69b32449.js",
+    "runtime-main.js.map": "/AlexMNet/dice-react-project/static/js/runtime-main.69b32449.js.map",
+    "static/js/2.6ae76a30.chunk.js": "/AlexMNet/dice-react-project/static/js/2.6ae76a30.chunk.js",
+    "static/js/2.6ae76a30.chunk.js.map": "/AlexMNet/dice-react-project/static/js/2.6ae76a30.chunk.js.map",
+    "index.html": "/AlexMNet/dice-react-project/index.html",
+    "static/css/main.c32d96a8.chunk.css.map": "/AlexMNet/dice-react-project/static/css/main.c32d96a8.chunk.css.map",
+    "static/js/2.6ae76a30.chunk.js.LICENSE.txt": "/AlexMNet/dice-react-project/static/js/2.6ae76a30.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69b32449.js",
+    "static/js/2.6ae76a30.chunk.js",
+    "static/css/main.c32d96a8.chunk.css",
+    "static/js/main.e4180c46.chunk.js"
+  ]
+}
